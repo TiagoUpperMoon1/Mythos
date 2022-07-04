@@ -1,5 +1,5 @@
 var i = 0; 			
-var images = [];	
+var norseimages = [];	
 var time = 2000;	
 
 images[0] = "images/Loki.jpg";
