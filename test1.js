@@ -1,4 +1,4 @@
-var images = ['https://github.com/TiagoUpperMoon1/Mythos/tree/main/images/zeus.jpg','images/odin.jpg','images/Ra.jpg','images/king-arthur.jpg'];
+var images = ['zeus.jpg','images/odin.jpg','images/Ra.jpg','images/king-arthur.jpg'];
 
 var i =0;
 
