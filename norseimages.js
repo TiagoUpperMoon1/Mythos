@@ -3,8 +3,8 @@ var images = [];
 var time = 2000;	
 
 images[0] = "images/Loki.jpg";
-images[1] = "Thor.jpg";
-images[2] = "Odin.jpg";
+images[1] = "images/Thor.jpg";
+images[2] = "images/Odin.jpg";
 
 
 
