@@ -1,4 +1,4 @@
-var images = ['Mythos/images/Ra.jpg','Mythos/images/king-arthur.jpg'];
+var images = ['images/Ra.jpg','images/king-arthur.jpg'];
 
 var i =0;
 
